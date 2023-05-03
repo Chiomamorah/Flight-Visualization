@@ -24,6 +24,13 @@ V-Look up was used to add data from the dimension table to the Facts table.
 ## Data Analysis
 Data was effectively analyzed using Pivot Table in Microsoft Excel.
 
+![](https://github.com/Chiomamorah/Flight-Visualization/blob/main/Analysis%20Flight.png)
+
+## Data Visualization
+Data was effectively and efficiently visualized using Pivot Chart in Microsoft Excel.
+
+
+
 
 
 
