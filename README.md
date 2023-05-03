@@ -19,6 +19,8 @@ The dataset was provided by my employer which I  extracted into Microsoft Excel 
 ## V-Look up
 V-Look up was used to add data from the dimension table to the Facts table.
 
+![](https://github.com/Chiomamorah/Flight-Visualization/blob/main/V%20LOOKUP%20FLIGHT.png)
+
 
 
 
