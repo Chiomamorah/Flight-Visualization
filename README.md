@@ -29,6 +29,8 @@ Data was effectively analyzed using Pivot Table in Microsoft Excel.
 ## Data Visualization
 Data was effectively and efficiently visualized using Pivot Chart in Microsoft Excel.
 
+![](https://github.com/Chiomamorah/Flight-Visualization/blob/main/vizualize.png)
+
 
 
 
